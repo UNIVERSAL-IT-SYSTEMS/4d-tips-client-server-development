@@ -1,0 +1,3 @@
+Log Session Identifer	8BA046BA46654996BA2080C6A226E226
+1 nth log opened on Monday, October 06, 2014 01:45:21 PM
+time	task id	component	process info index	request	bytes in	bytes out	duration	task kind

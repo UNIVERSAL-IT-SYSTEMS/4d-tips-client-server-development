@@ -1,0 +1,2 @@
+Log Session Identifer	8BA046BA46654996BA2080C6A226E226
+index	CDB4DBaseContext	VTaskID	server process id	remote process id	process name	cID	uID	IP	host name	user name
